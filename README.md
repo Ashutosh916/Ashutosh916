@@ -1,5 +1,63 @@
-# 💫 About Me:
-<br><br>I’m a Generative AI Developer with a strong backend engineering foundation, working primarily with Python and FastAPI, and focused on building reliable, production-oriented GenAI systems.<br><br>🔭 Currently working on LLM-powered applications involving:<br><br>RAG (Retrieval-Augmented Generation) using SQL/SQLite and vector-based retrieval concepts<br><br>Agentic AI workflows with tool calling, guardrails, and deterministic execution<br><br>Backend integrations where LLMs interact safely with databases, APIs, and business logic<br><br>🌱 Actively deepening my understanding of Generative AI internals, including:<br><br>Prompt & system message design<br><br>Tool/function calling<br><br>Embeddings & semantic search (early-stage, expanding)<br><br>Designing agent loops that balance LLM reasoning with backend control<br><br>💬 Ask me about Python, FastAPI, LLM integrations, RAG pipelines, Agentic AI design, tool-based agents, JWT authentication, Redis, Celery, SQL/PostgreSQL, and how GenAI fits into real backend systems.<br><br>🤝 Open to collaborating on backend-heavy GenAI projects, early-stage agent-based systems, or applied AI tools where engineering fundamentals, safety, and scalability matter.<br><br>⚡ Fun fact: I analyze AI system failures and football tactics the same way — by breaking them down into patterns, constraints, and trade-offs.
+## About Me:
+I’m an AI/ML Engineer with a strong backend engineering foundation, focused on building production-ready machine learning and AI systems using Python and modern ML frameworks. My work spans classical machine learning, applied AI, and Generative AI, with an emphasis on real-world deployment, reliability, and scalability.
+
+## Currently working on AI/ML systems involving:
+
+- End-to-end machine learning pipelines (data preprocessing, feature engineering, model training, evaluation, and inference)
+
+- ML algorithms and techniques including classification, regression, tree-based models, and model comparison
+
+- Generative AI systems, including:
+
+- RAG (Retrieval-Augmented Generation) using SQL/SQLite and vector-based retrieval
+
+- LLM-backed applications with controlled backend integration
+
+- Safe interaction between LLMs, databases, and APIs
+
+## I have got good enough understanding of:
+
+- Core machine learning concepts (bias–variance tradeoff, overfitting, feature selection, evaluation metrics)
+
+- ML algorithms (Logistic Regression, Random Forests, gradient-based methods)
+
+- Fine-tuning concepts and model adaptation strategies
+
+- Embeddings & semantic search
+
+- Designing hybrid systems where classical ML and LLMs complement each other
+
+## Ask me about:
+
+- Python for ML and backend systems
+
+- Machine Learning algorithms & techniques
+
+- Data preprocessing and feature engineering
+
+- Model evaluation and selection
+
+- RAG pipelines and semantic search
+
+- LLM integration with backend services
+
+- FastAPI, SQL/PostgreSQL, Redis, Celery, JWT-based systems
+
+- How ML and GenAI fit into real production architectures
+
+## Open to collaborating on:
+
+- Applied AI/ML projects
+
+- Production-grade ML systems
+
+- RAG-based applications
+
+- Backend-heavy AI systems
+
+- Projects where engineering discipline, data quality, and scalability matter
+
+⚡ Fun fact: I analyze ML model failures and football tactics the same way — by breaking them down into patterns, constraints, trade-offs, and decision boundaries.
 
 
 ## 🌐 Socials:
@@ -14,5 +72,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashutosh916&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
