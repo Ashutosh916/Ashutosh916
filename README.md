@@ -3,8 +3,6 @@ I’m an AI/ML Engineer with a strong backend engineering foundation, focused on
 
 ## Currently working on AI/ML systems involving:
 
-- End-to-end machine learning pipelines (data preprocessing, feature engineering, model training, evaluation, and inference)
-
 - ML algorithms and techniques including classification, regression, tree-based models, and model comparison
 
 - Generative AI systems, including:
@@ -17,9 +15,7 @@ I’m an AI/ML Engineer with a strong backend engineering foundation, focused on
 
 ## I have got good enough understanding of:
 
-- Core machine learning concepts (bias–variance tradeoff, overfitting, feature selection, evaluation metrics)
-
-- ML algorithms (Logistic Regression, Random Forests, gradient-based methods)
+- ML algorithms (Logistic Regression, Random Forests)
 
 - Fine-tuning concepts and model adaptation strategies
 
@@ -31,8 +27,6 @@ I’m an AI/ML Engineer with a strong backend engineering foundation, focused on
 
 - Python for ML and backend systems
 
-- Machine Learning algorithms & techniques
-
 - Data preprocessing and feature engineering
 
 - Model evaluation and selection
@@ -41,7 +35,7 @@ I’m an AI/ML Engineer with a strong backend engineering foundation, focused on
 
 - LLM integration with backend services
 
-- FastAPI, SQL/PostgreSQL, Redis, Celery, JWT-based systems
+- FastAPI, SQL, Redis, Celery.
 
 - How ML and GenAI fit into real production architectures
 
